@@ -5,4 +5,4 @@
 
 ### Natural Language Processing (자연어 처리)
 * Attention is All You Need (NIPS 2017)
-  * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Summary PDF] / Code Practice
+  * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Summary PDF](https://github.com/gyqls/Deep-Learning-Paper-Review-and-Practice/blob/main/paper_review_notes/Transformer(Attention%20is%20All%20You%20Need).pdf) / [Code Practice](https://github.com/gyqls/Deep-Learning-Paper-Review-and-Practice/blob/main/code_practices/LANGUAGE%20MODELING%20WITH%20NN.TRANSFORMER%20AND%20TORCHTEXT.ipynb)
