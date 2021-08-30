@@ -14,5 +14,5 @@
   * [Original Paper Link](https://www.sciencedirect.com/science/article/pii/S1877050919314152?via%3Dihub) / Summary PDF / Code Practice
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
   * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Summary PDF / Code Practice
-
-  
+* Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference
+  * [Original Paper Link](https://arxiv.org/pdf/2001.07676v3.pdf)
