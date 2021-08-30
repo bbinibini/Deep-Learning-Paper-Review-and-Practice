@@ -10,9 +10,11 @@
   * [Original Paper Link](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) / Summary PDF / [View Code](https://openai.com/blog/language-unsupervised/)
 * GPT-2 : Language Models are Unsupervised Multitask Learners
   * [Original Paper Link](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) / Summary PDF / [View Code](https://github.com/openai/gpt-2) / [KoGPT2](https://github.com/skt-ai/kogpt2?utm_medium=social&utm_source=medium&utm_campaign=everyone%20ai&utm_content=kogpt2)
-* Dealing with Data Imbalance in Text Classification (2019)
-  * [Original Paper Link](https://www.sciencedirect.com/science/article/pii/S1877050919314152?via%3Dihub) / Summary PDF / Code Practice
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
   * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Summary PDF / Code Practice
+
+
+* Dealing with Data Imbalance in Text Classification (2019)
+  * [Original Paper Link](https://www.sciencedirect.com/science/article/pii/S1877050919314152?via%3Dihub) / Summary PDF / Code Practice
 * Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference
   * [Original Paper Link](https://arxiv.org/pdf/2001.07676v3.pdf)
