@@ -16,3 +16,6 @@
   * [Original Paper Link](https://www.sciencedirect.com/science/article/pii/S1877050919314152?via%3Dihub) / Summary PDF / Code Practice
 * Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference
   * [Original Paper Link](https://arxiv.org/pdf/2001.07676v3.pdf)
+
+* Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+  * [Original Paper Link](https://arxiv.org/abs/1908.10084) / [Ko-Sentence-BERT](https://github.com/BM-K/KoSentenceBERT_ETRI)
